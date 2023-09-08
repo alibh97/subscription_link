@@ -24,6 +24,12 @@
 
 6- یک ترمینال یا شل باز کنید و این دستور را اجرا نمایید : `python sub.py`
 
-7- You will see a window, you can paste the link you copied in section 4 in the first field and click on the "Transform" button . the modified link will appear in the second field and you can copy it. you can give this link to users, to use it as a subscription link.
+7- You will see a window, you can paste the link you copied in section 4 in the first field and click on the "Transform" button. the modified link will appear in the second field and you can copy it. you can give this link to users, to use it as a subscription link.
 
 7- یک پنجره باز میشود، لینکی که در مرحله 4 کپی کردید را میتوانید در کادر اول پیست کنید ، سپس دکمه "Transform" را فشار دهید تا لینک نهایی آماده شود. لینک آماده شده را در کادر دوم میبینید و میتوانید کپی کنید . این لینک را میتوانید به عنوان لینک سابسکریپشن به کاربر ارائه دهید.
+
+
+
+# To use this script you need to have Python3 installed on your machine
+
+# برای استفاده از این فایل ، باید پایتون3 را در کامپیوتر خود نصب کرده باشید.
